@@ -1,6 +1,6 @@
-# Devcamp Portfolio Application
+# iBeatTBI Application
 
-> This is a Ruby on Rails 5 application that allows users to create their own portfolios.
+> This is a Ruby on Rails 5 application that allows potential clients to view my portfolios.
 
 ### Features
 
